@@ -1,0 +1,6 @@
+git init  // to robie tylko raz
+git clone link 
+git add // np. A.txt (plik, który chcę wrzucić do repozytorium git), git add . - dodać wszystko z danej lokalizacji
+git status // pokazuje, czy wszystko jest dobrze
+git commit -m "to jest komentarz" A.txt // dodanie komentarza "to jest komentarz" do wrzucanego pliku A.txt
+git push origin master // wrzucenie na git na master'a
